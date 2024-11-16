@@ -5,7 +5,7 @@ Muhammad Haris Afiful Hamim
 
 Dengan hormat,  
 
-Kami dari **PT Firenze Digital Indonesia Films** mengucapkan selamat atas keberhasilan Anda **lolos seleksi lanjutan** untuk posisi **Rigging 3 Karakter**.  
+Kami dari **PT Firenze Digital Indonesia Films** mengucapkan selamat atas keberhasilan Anda **lolos seleksi lanjutan** untuk posisi **Rigging 3D Karakter**.  
 
 Sebagai langkah berikutnya, Anda diwajibkan untuk mengikuti **tes training skill**, yang akan dilaksanakan pada:  
 
