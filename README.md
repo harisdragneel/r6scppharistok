@@ -19,7 +19,7 @@ Sebagai langkah berikutnya, Anda diwajibkan untuk mengikuti **tes training skill
 
 **Lokasi:** Tes akan dilakukan secara daring.  
 1. **Materi dan panduan dapat diakses melalui GitHub:**  
-   [https://github.com/username/mocapfirenze](https://github.com/firenze/mocapstudio)  
+   [https://github.com/firenze/mocapfirenze](https://github.com/firenze/mocapstudio)  
 2. **Tes akan dilaksanakan melalui Google Meet:**  
    [https://meet.google.com/fre-x23-742](https://meet.google.com/fre-x23-742)  
 
