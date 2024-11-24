@@ -1,32 +1,12 @@
-**PENGUMUMAN KELULUSAN SELEKSI LANJUTAN**  
+Kepada Yth. Muhammad Haris Afiful Hamim,
 
-Kepada Yth.  
-Muhammad Haris Afiful Hamim  
+Dengan senang hati kami informasikan bahwa Anda telah diterima dan lolos seleksi dalam proses rekrutmen untuk posisi Animator 3D di PT Firenze Digital Indonesia Films. Sebagai langkah selanjutnya, kami mengundang Anda untuk mengikuti diskusi terkait perjanjian kerja.
 
-Dengan hormat,  
+Diskusi perjanjian kerja ini akan dilaksanakan secara daring melalui link berikut: (https://meet.google.com/pge-soov-zws). Acara ini akan diadakan pada:
 
-Kami dari **PT Firenze Digital Indonesia Films** mengucapkan selamat atas keberhasilan Anda **lolos seleksi lanjutan** untuk posisi **Rigging 3D Karakter**.  
+Hari/Tanggal: Senin, 25 November 2024
+Waktu: Pukul 11:00 AM UTC / 06:00 PM WIB
 
-Sebagai langkah berikutnya, Anda diwajibkan untuk mengikuti **tes training skill**, yang akan dilaksanakan pada:  
+Harap memastikan bahwa Anda hadir tepat waktu dan telah mempersiapkan segala hal yang diperlukan untuk diskusi tersebut. Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami.
 
-**Hari/Tanggal:**  
-- Sabtu, 16 November 2024  
-- Minggu, 17 November 2024  
-
-**Waktu:**  
-- Sabtu, pukul 16.30 - 19.30 WIB  
-- Minggu, pukul 11.30 - 13.30 WIB  
-
-**Lokasi:** Tes akan dilakukan secara daring.  
-1. **Materi dan panduan dapat diakses melalui GitHub:**  
-   [https://github.com/firenze/mocapfirenze](https://github.com/firenze/mocapstudio)  
-2. **Tes akan dilaksanakan melalui Google Meet:**  
-   [https://meet.google.com/fre-x23-742](https://meet.google.com/fre-x23-742)  
-
-Harap memastikan kesiapan perangkat dan koneksi internet sebelum pelaksanaan tes. Untuk pertanyaan lebih lanjut, Anda dapat menghubungi tim rekrutmen melalui kontak resmi perusahaan.  
-
-Demikian pemberitahuan ini kami sampaikan. Terima kasih atas perhatian dan kerjasamanya.  
-
-Hormat kami,  
-**PT Firenze Digital Indonesia Films**  
-_Tim Rekrutmen_  
+Kami sangat menantikan kehadiran Anda dalam diskusi ini dan selamat sekali lagi atas keberhasilan Anda.
