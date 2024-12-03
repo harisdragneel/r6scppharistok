@@ -1,12 +1,11 @@
-Kepada Yth. Muhammad Haris Afiful Hamim,
+Saya ingin menginformasikan bahwa kita pembuatan rigging untuk 5 karakter 3D dengan model file PMX dari MMD. Setiap karakter memiliki format dan command tersendiri dan perlu diproses dengan blender.
 
-Dengan senang hati kami informasikan bahwa Anda telah diterima dan lolos seleksi dalam proses rekrutmen untuk posisi Animator 3D di PT Firenze Digital Indonesia Films. Sebagai langkah selanjutnya, kami mengundang Anda untuk mengikuti diskusi terkait perjanjian kerja.
+Lokasi file rigging berada pada directory berikut:
+Karakter 1: Rigging model terletak di folder Character1aa221/.
+Karakter 2: Rigging model terletak di folder Character2fgg0/.
+Karakter 3: Rigging model terletak di folder Character3z1/.
+Karakter 4: Rigging model terletak di folder Character40_yy3/.
+Karakter 5: Rigging model terletak di folder Character522/.
+Lakukan rigging sesuai dengan kebutuhan setiap karakter dan kompilasikan semua hasil dalam satu file animasi berformat VMD. Pastikan juga file yang dihasilkan memiliki kompatibilitas penuh dengan MMD.
 
-Diskusi perjanjian kerja ini akan dilaksanakan secara daring melalui link berikut: (https://meet.google.com/pge-soov-zws). Acara ini akan diadakan pada:
-
-Hari/Tanggal: Senin, 25 November 2024
-Waktu: Pukul 11:00 AM UTC / 06:00 PM WIB
-
-Harap memastikan bahwa Anda hadir tepat waktu dan telah mempersiapkan segala hal yang diperlukan untuk diskusi tersebut. Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami.
-
-Kami sangat menantikan kehadiran Anda dalam diskusi ini dan selamat sekali lagi atas keberhasilan Anda.
+Terima kasih atas kerja keras Anda, dan semoga proses ini berjalan lancar.
